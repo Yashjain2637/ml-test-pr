@@ -1,0 +1,24 @@
+ 2 uv init .
+   3 uv venv
+   4 .venv\Scripts\activate
+   5 uv add -r requirements.txt
+   6 git --version
+   7 uv add -r requirements.txt
+   8 uv init
+   9 uv init .
+  10 uv add -r requirements.txt
+  11 python app.py
+  12 python app.py
+  13 git init
+  14 git add .
+  15 git commit -m "added"
+  16 git branch -M main
+  17 git remote add origin https://github.com/Yashjain2637/ml-test-pr.git
+  18 git push -u origin main
+  19 git config --global --unset credential.helper...
+  20 git push -u origin main...
+  21 git push -u origin main
+  22 git push -u origin main...
+  23 git status
+  24 git push -u origin main...
+  25 git status
